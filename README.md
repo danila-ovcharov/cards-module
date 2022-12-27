@@ -1,2 +1,4 @@
 # cards-module
-Simple cards module with ... parameters:
+Simple cards module.
+<br>
+cards();
